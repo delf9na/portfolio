@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    margin: 30px;
+    font-family: "Courier New";
+    
+    
+    
+}
+
+.volver {
+    float: left;
+    position: relative;
+    margin-bottom: -32px;
+    
+}
+
+#defaultCanvas0 {
+    float: left;
+}
+
+.refresh {
+    float: right;
+    
+}
+
+p {color: white;
+
+}
